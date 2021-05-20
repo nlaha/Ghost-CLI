@@ -4,7 +4,7 @@ Welcome to the Ghost-CLI project, and thank you for wanting to get started contr
 
 To setup Ghost-CLI for development, please read through the developer setup in the [readme](../README.md).
 
-Read through the list of [open issues](https://github.com/TryGhost/Ghost-CLI/issues), and if you find one that you want to work on, please comment on it so that others will know it's being worked on 😉
+Read through the list of [open issues](https://github.com/nlaha/Ghost-CLI/issues), and if you find one that you want to work on, please comment on it so that others will know it's being worked on 😉
 
 Once you've implemented the feature or fixed the issue, please make sure:
 

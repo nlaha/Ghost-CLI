@@ -10,7 +10,7 @@ Do you need help or have a question? Please come chat in our forum: https://foru
 
 Docs: https://ghost.org/docs/ 📖.
 
-Please be aware that the team behind the Ghost CLI only supports the recommended stack: https://github.com/TryGhost/Ghost-cli#recommended-stack.
+Please be aware that the team behind the Ghost CLI only supports the recommended stack: https://github.com/nlaha/Ghost-cli#recommended-stack.
 
 ### Summary
 
